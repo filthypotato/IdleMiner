@@ -68,14 +68,9 @@ mainMenu() — controls all navigation
 Compile:
 bash
 Copy code
-g++ -std=c++17 main.cpp -o IdleMiner
-Run:
-bash
-Copy code
-./IdleMiner
+g++ main.cpp -o IdleMiner
+Run: ./IdleMiner
 🎮 Example Gameplay
-vbnet
-Copy code
 === Idle Miner ===
 [1] Auto Mine (Copper)
 [2] Smelter

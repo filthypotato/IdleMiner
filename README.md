@@ -122,7 +122,3 @@ Copper Pickaxe (10 Copper)
 
 📜 License
 This project uses the MIT License — feel free to fork it or expand your own idle mining universe.
-
----
-    bool running;
-};
